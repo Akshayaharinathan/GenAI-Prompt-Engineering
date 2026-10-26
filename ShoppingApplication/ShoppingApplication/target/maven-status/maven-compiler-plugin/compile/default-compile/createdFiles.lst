@@ -1,0 +1,5 @@
+com\shopping\ShoppingApp.class
+com\shopping\service\ProductService.class
+com\shopping\model\CartItem.class
+com\shopping\model\Product.class
+com\shopping\service\CartService.class

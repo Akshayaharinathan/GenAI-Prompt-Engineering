@@ -1,0 +1,14 @@
+target/
+test-output/
+*.class
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+downloads/*.txt
+downloads/*.pdf
+screenshots/*.png
+*.log
+.DS_Store
